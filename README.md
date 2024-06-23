@@ -1,5 +1,3 @@
-# README.md
-
 ## Introduction
 
 Embarking on the creation of `libftprintf.a`, I aimed to delve deeper into the realm of variadic functions in C, a fascinating aspect of the language that allows for unparalleled flexibility in function design. This project is not merely about replicating the `printf()` function; it's a journey to understand and implement variadic functions, a cornerstone of C programming.
